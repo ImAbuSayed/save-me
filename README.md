@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/save-me/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Save Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/save-me/) |
+| **Get License** | [Secure Licensing Rights for Save Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/save-me/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pour a little whiskey, keep the porch light dim
+> I'm ready for the trouble I am in
+> Your fingers tracing circles on my hand
+> The sweetest kind of falling I have planned
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
