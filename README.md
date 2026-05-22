@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/save-me/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Save Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/save-me/) |
+| **Get License** | [Music Rights & Licensing for Save Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/save-me/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7d183e59a5758bc2ad11ae7e3c89ae1ce9a4e84a6ebc90a5441fa1fa3dff1654` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
